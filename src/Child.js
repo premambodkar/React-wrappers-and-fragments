@@ -7,6 +7,7 @@ const Child = (props) => {
     <Wrapper>
       <div>Hi</div>
       <div>How are you?</div>
+      <div>This component using Wrapper</div>
       <Second />
     </Wrapper>
   );
